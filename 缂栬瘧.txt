@@ -1,0 +1,4 @@
+使用qmake命令编译
+qmake -project
+qmake
+make
